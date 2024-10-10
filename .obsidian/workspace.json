@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "0574de12d4519150",
+    "type": "split",
+    "children": [
+      {
+        "id": "588f9068ade65863",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff9960eb10596275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Docs/index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "404bcf3630a7c2e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Docs/Featrues/Spelling Rhythms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a6da70f7ae5f159c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Docs/Featrues/Spelling Rhythms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9ec1d5159b16cd13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Docs/Featrues/Spelling Rhythms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61f9e70fb0189472",
+    "type": "split",
+    "children": [
+      {
+        "id": "2844268583d835af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56d1cc9a793fcb50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb3b1afbb20732ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23e83a32390587ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6bc90ab62cccc7d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "46187be8864b6fe0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e8eb59a0b8cb86f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5484d5ebe767c9be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25ea0769b9e9f5df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f351b7e96744c47d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "floating": {
+    "id": "7f3b2b661b45722f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9929f41290052dba",
+        "type": "window",
+        "children": [
+          {
+            "id": "6dcb1a4b4e951d4f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "04589b42b5bb6b96",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "04589b42b5bb6b96",
+  "lastOpenFiles": [
+    "Design Docs/Featrues/Spelling Rhythms.md",
+    "Design Docs/Resources/RhythmSpellingDemoScreen.jpg",
+    "Design Docs/Featrues/Metronome.md",
+    "Design Docs/Overview.md",
+    "Design Docs/index.md",
+    "Design Docs/Untitled",
+    "Design Docs",
+    "Resources/Untitled_Artwork 2.jpg",
+    "Design Docs/Resources",
+    "Design Docs/Featrues",
+    "Rhythm Cells/Rhythm Cells.md",
+    "Rhythm Cells/Knowledge Map.canvas",
+    "Music Theory/Knowledge map.canvas",
+    "Music Theory/Intro to Music Theory.md",
+    "Guitar/RSOP - An Intermediate Guitar Study.md",
+    "Guitar/Knowledge Map.canvas",
+    "Guitar/Resources/Intermediate Guitar Study.pdf",
+    "Music Theory/Resources/PNG/Intervals.png",
+    "Rhythm Cells/Resources/Video/E4/QQ.mov",
+    "Rhythm Cells/Resources/Video/Q4/DHQ.mov",
+    "Rhythm Cells/Resources/Video/E3/QE.mov",
+    "Rhythm Cells/Resources/Video/E3/EQ.mov",
+    "Rhythm Cells/Resources/Video/E3/EEE.mov",
+    "Primer/Time/Feel.md",
+    "Primer/Time/Time.md",
+    "Primer/Time/Rhythm.md",
+    "Primer/Time/Tempo.md",
+    "Primer/Map.canvas",
+    "Music Theory/Resources/PNG/Inverted Chords.png",
+    "Rhythm Cells/Resources/3-Count/Quarter Note Triplets.jpg",
+    "Rhythm Cells/Resources/3-Count/Half Note Triplets.jpg",
+    "Rhythm Cells/Resources/3-Count/Eighth Note Triplets.jpg",
+    "Rhythm Cells/Resources/3-Count/3-Count shapes.jpg",
+    "Guitar Study.md",
+    "Music Theory/Resources/PNG/7th Chords.png",
+    "Music Theory/Resources/Notes/7th Chords.md",
+    "Music Theory/Resources/Notes/Triads.md",
+    "Music Theory/Resources/Notes/Steps.md",
+    "Music Theory/Resources/Notes/Scales.md",
+    "Music Theory/Resources/Notes/Outline.md",
+    "Music Theory/Resources/Notes/Modes.md",
+    "Music Theory/Resources/Notes/Inverted Chords.md",
+    "Music Theory/Resources/Notes/Inversions.md",
+    "Music Theory/Resources/Notes/Intervals.md",
+    "Guitar/Resources/Theory/Chord Scales.png",
+    "Rhythm Cells/Resources/Untitled.md",
+    "Intro To Music Theory/Outline.md",
+    "Intro To Music Theory/Intro To Music Theory.canvas",
+    "2024-10-02.md"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "accentColor": "#8f71d6",
+  "cssTheme": "Elegance",
+  "translucency": true,
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "textFontFamily": "AppleGothic",
+  "interfaceFontFamily": "AppleGothic",
+  "monospaceFontFamily": "AppleGothic",
+  "nativeMenus": true
+}

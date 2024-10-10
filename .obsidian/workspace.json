@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "588f9068ade65863",
+        "id": "b5736c8ce867d0db",
         "type": "tabs",
         "children": [
           {
-            "id": "ff9960eb10596275",
+            "id": "a2dc67c592dcddee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Docs/index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "404bcf3630a7c2e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Docs/Featrues/Spelling Rhythms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a6da70f7ae5f159c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Docs/Featrues/Spelling Rhythms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9ec1d5159b16cd13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Docs/Featrues/Spelling Rhythms.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,15 +151,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "9929f41290052dba",
+        "id": "97d7228868686412",
         "type": "window",
         "children": [
           {
-            "id": "6dcb1a4b4e951d4f",
+            "id": "3bc9af47480a5b7e",
             "type": "tabs",
             "children": [
               {
-                "id": "04589b42b5bb6b96",
+                "id": "463478a971efa1ad",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -219,8 +179,9 @@
       }
     ]
   },
-  "active": "04589b42b5bb6b96",
+  "active": "463478a971efa1ad",
   "lastOpenFiles": [
+    "index.md",
     "Design Docs/Featrues/Spelling Rhythms.md",
     "Design Docs/Resources/RhythmSpellingDemoScreen.jpg",
     "Design Docs/Featrues/Metronome.md",

@@ -46,13 +46,7 @@
   "exportPath": "/Users/pino/Documents/Obsidian/Rhythm-Trainer",
   "filesToExport": [
     [
-      "Guitar/Knowledge Map.canvas",
-      "Guitar/RSOP - An Intermediate Guitar Study.md",
-      "Music Theory/Intro to Music Theory.md",
-      "Music Theory/Knowledge map.canvas",
-      "Rhythm Cells/Knowledge Map.canvas",
-      "Rhythm Cells/Rhythm Cells.md",
-      "index.md"
+      "all"
     ]
   ]
 }

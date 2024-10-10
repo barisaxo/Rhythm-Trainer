@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Music Theory Book]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.jpg</url><title>Music Theory Book</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 10 Oct 2024 17:34:34 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 10 Oct 2024 17:34:32 GMT</pubDate><copyright><![CDATA[AuralTechGames]]></copyright><ttl>60</ttl><dc:creator>AuralTechGames</dc:creator><item><title><![CDATA[Metronome]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Music Theory Book]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.jpg</url><title>Music Theory Book</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 10 Oct 2024 17:40:49 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 10 Oct 2024 17:40:48 GMT</pubDate><copyright><![CDATA[AuralTechGames]]></copyright><ttl>60</ttl><dc:creator>AuralTechGames</dc:creator><item><title><![CDATA[Metronome]]></title><description><![CDATA[ 
  <br>Metronome<br>
 <br>Up to a 4 or 8 bar click track that you can set various time signatures.
 <br>able to name, save, edit, duplicate, and load various click tracks &amp; click configurations
@@ -84,81 +84,5 @@
 <br>play back user input rhythms
 <br>analyze rhythms from audio input? (if this is feasible)
 <br>practice via metronome functionality
-<br><br>Metronome<br><br>Metronome<br>
-<br>Up to a 4 or 8 bar click track that you can set various time signatures.
-<br>able to name, save, edit, duplicate, and load various click tracks &amp; click configurations
-<br>select which counts you want played back
-<br>set default click sounds per time signature - per configuration
-
-<br>default count 1 sound &amp; volume
-<br>default count 2 sound &amp; volume
-
-
-<br>select click sound (voice, chirp etc, ) &amp; volume - per each count that is currently in display
-<br>Go as slow as 5 bpm up to 300 bpm
-<br><br>Spelling Rhythms<br><br>Functionality: <br>
-<br>select cell from measures to edit
-<br>clicking rest/tie edits currently highlighted cell in measures
-
-<br>Implement staccato? (it would only matter if we offer sustained note playback such as snare drum roll or other instrument w/ note sustain)
-
-
-<br>clicking on set subdivision icon to change subdivisions 
-
-<br>ui automatically updates w/counts and graphics
-
-
-<br>click on bar line to change time signature (per measure)
-
-<br>ui automatically updates graphics for each measure to fit appropriate remaining rhythm cells
-
-
-<br>clicking on the ear icon plays back current rhythm
-<br>able to name, save, edit, duplicate, load, etc rhythms
-<br>menu options:
-
-<br>Number of measures (up to 4?)
-<br>Show/hide counts above measures
-<br>Show/hide counts above rhythm cells
-<br>Show/hide sustained counts above rhythm cells
-<br>playback type:
-
-<br>speak counts &amp; play rhythms
-<br>metronome click &amp; play rhythms
-<br>drum track &amp; play rhythms
-<br>play rhythms
-
-
-<br>voice sounds:
-
-<br>male 1
-<br>female 1
-<br>robot 1
-<br>(volume slider)
-
-
-<br>metronome sounds
-
-<br>wood block
-<br>chirp
-<br>(volume slider)
-
-
-<br>drum track sounds
-
-<br>rock drums
-<br>jazz drums
-<br>latin drums
-<br>(volume slider)
-
-
-<br>playback sounds
-
-<br>clap
-<br>snare drum
-<br>(volume slider)
-
-
-
-
-<br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[AuralTechGames]]></dc:creator><pubDate>Thu, 10 Oct 2024 17:34:12 GMT</pubDate></item></channel></rss>
+<br><br><a rel="noopener" class="external-link" href="https://rhytm-trainer.netlify.app" target="_blank">https://rhytm-trainer.netlify.app</a><br>
+<a rel="noopener" class="external-link" href="https://github.com/barisaxo/Rhythm-Trainer/" target="_blank">https://github.com/barisaxo/Rhythm-Trainer/</a>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><dc:creator><![CDATA[AuralTechGames]]></dc:creator><pubDate>Thu, 10 Oct 2024 17:39:33 GMT</pubDate></item></channel></rss>

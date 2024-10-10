@@ -11,8 +11,5 @@ Rhythm Trainer is an app to help musicians with the following:
 
 ---
 
-![[Metronome]]
-
----
-
-![[Spelling Rhythms]]
+https://rhytm-trainer.netlify.app
+https://github.com/barisaxo/Rhythm-Trainer/

@@ -1,9 +1,1 @@
-[[Overview]]
-
----
-
-[[Metronome]]
-
----
-
-[[Spelling Rhythms]]
+Use left bar to navigate
